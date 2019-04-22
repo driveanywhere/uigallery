@@ -1,0 +1,7 @@
+{
+  "name": "react-component-testing-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BigYu/react-component-testing-demo.git",
+  "license": "MIT"
+}

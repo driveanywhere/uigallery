@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'FullMDL2';
+  src: url('../fonts/FullMDL2.eot?') format('embedded-opentype'),
+    url('../fonts/FullMDL2.woff') format('woff'),
+    url('../fonts/FullMDL2.ttf') format('truetype'),
+    url('../fonts/FullMDL2.svg') format('svg');
+}
+[class*="fullmdl2-icon-"] {
+  font-family: 'FullMDL2';
+  font-style: normal;
+}
+
+.fullmdl2-icon-search::before {
+  content: '\E094';
+}
+.fullmdl2-icon-testbeaker:before {
+  content: '';
+}
+.fullmdl2-icon-notification:before {
+  content: '';
+}
+.fullmdl2-icon-settings:before {
+  content: '';
+}
+.fullmdl2-icon-global:before {
+  content: '';
+}
